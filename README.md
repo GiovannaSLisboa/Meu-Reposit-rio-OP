@@ -16,3 +16,4 @@ Este repositório tem como objetivo testar as habilidades aprendidadas com a dis
 
 # Eu
 
+![Minha Foto](foto_rosa.jpeg)
